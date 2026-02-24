@@ -17,14 +17,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows (Windows 11 Pro)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>List of Prerequisites</h2>
 
 - Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Azure Virtual Machine
+- osTicket Installation files
+- Heidi SQL
 
-<h2>Lifecycle Stages</h2>
+<h2>Installation Steps</h2>
 
 <p>
 <img width="1728" height="1080" alt="Screenshot 2026-01-25 at 5 22 26 AM" src="https://github.com/user-attachments/assets/8a2c348c-4eb5-43b1-a992-46db9e5b332c" />
