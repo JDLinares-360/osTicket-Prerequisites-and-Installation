@@ -44,7 +44,7 @@ Alright, now that you are connected to your VM you will have to enable IIS. Simp
 <br />
 
 <p>
-<img width="1728" height="1080" alt="Screenshot 2026-01-25 at 5 52 45 AM" src="https://github.com/user-attachments/assets/d209691f-ec66-4fdd-b4a6-7d57309f95bd" />
+<img width="1122" height="591" alt="image" src="https://github.com/user-attachments/assets/62918545-b20f-4fcc-abef-7ef29859614e" />
 </p>
 <p>
 After troubleshooting/working the ticket with the client, post internal notes with details concerning actions taken to resolve the issue.
