@@ -59,7 +59,6 @@ Once you have installed Web Installer Platform open it. From inside the applicat
 
 <img width="890" height="608" alt="image" src="https://github.com/user-attachments/assets/1a6cbf75-fce6-4e05-8546-c9e6fd1d40f0" />
 Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket
-
 <p>
 <img width="1150" height="660" alt="image" src="https://github.com/user-attachments/assets/47a7360d-2946-4fdd-b718-cfb72f22b73e" />
 </p>
