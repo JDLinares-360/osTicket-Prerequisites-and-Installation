@@ -57,4 +57,10 @@ Excellent. Now that you have enabled IIS we need to install Web Platform Install
 Once you have installed Web Installer Platform open it. From inside the application you are going to install MySQL 5.5 Afterwards install x86 version of PHP up until 7.3. There are some failed files such as C++ redistributable package as well as PHP 7.3.8 and PHP Manager for IIS those files can be found with the install link.
 <p>
 
-
+<p>
+<img width="890" height="608" alt="image" src="https://github.com/user-attachments/assets/6a38edf5-2ef7-4313-82dc-b5f8098e1742" />
+</p>
+<p>
+Alright, now that you are connected to your VM you will have to enable IIS. Simply access the control panel then select uninstall a program. Off to the left select "Turn windows features on or off". A list will appear then you will enable Internet Information Services.
+</p>
+<br />
