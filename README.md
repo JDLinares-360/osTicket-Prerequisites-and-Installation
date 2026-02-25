@@ -52,8 +52,7 @@ Excellent. Now that you have enabled IIS we need to install Web Platform Install
 <br />
 
 <p>
-<img width="1728" height="1080" alt="Screenshot 2026-01-25 at 6 08 06 AM" src="https://github.com/user-attachments/assets/131d3800-eedf-4aac-a7c4-b16196fc605a" />
-<img width="1728" height="1080" alt="Screenshot 2026-01-25 at 6 08 44 AM" src="https://github.com/user-attachments/assets/a0c5880f-d092-4e58-8f67-68062640efc4" />
+<img width="495" height="387" alt="image" src="https://github.com/user-attachments/assets/ad52be8f-377c-49d5-af68-f176b0cb5790" />
 </p>
 <p>
 Depending on how osTicket is configured:
