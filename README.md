@@ -34,8 +34,10 @@ Log into osTicket and open "Tickets" Panel. Observe ticket(s). Consider client i
 </p>
 <br />
 
+Next simply connect to your newly created VM using RDP using the public IPv4 address. If you are a Mac user you will have to download Microsoft Remote Desktop(RDP).
+
 <p>
-<img width="1728" height="1080" alt="Screenshot 2026-01-25 at 5 36 00 AM" src="https://github.com/user-attachments/assets/da4a61ea-a27d-4d99-9908-608a3cf4672a" />
+<img width="406" height="253" alt="image" src="https://github.com/user-attachments/assets/24277a2c-282a-409e-a0d3-1bb73fcc2469" />
 </p>
 <p>
 Communicate to client that the issue will be addressed and they will be kept up to date concerning progress.
