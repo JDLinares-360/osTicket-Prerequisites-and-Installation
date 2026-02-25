@@ -40,7 +40,7 @@ Next simply connect to your newly created VM using RDP using the public IPv4 add
 <img width="406" height="253" alt="image" src="https://github.com/user-attachments/assets/24277a2c-282a-409e-a0d3-1bb73fcc2469" />
 </p>
 <p>
-Communicate to client that the issue will be addressed and they will be kept up to date concerning progress.
+Alright, now that you are connected to your VM you will have to enable IIS. Simply access the control panel then select uninstall a program. Off to the left select "Turn windows features on or off". A list will appear then you will enable Internet Information Services.
 </p>
 <br />
 
