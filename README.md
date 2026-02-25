@@ -30,7 +30,6 @@ Welcome to my first in-depth IT tutorial! To begin we will have to create a Virt
 <p>
 <img width="1919" height="968" alt="68747470733a2f2f692e696d6775722e636f6d2f4f506149476f4e2e706e67" src="https://github.com/user-attachments/assets/acabc84e-408e-4e99-b2f6-5a180574f955" />
 <p>
-Log into osTicket and open "Tickets" Panel. Observe ticket(s). Consider client issue, priority level, and SLA.
 </p>
 <br />
 
