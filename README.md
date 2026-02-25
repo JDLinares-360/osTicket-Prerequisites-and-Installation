@@ -25,11 +25,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-Welcome to my first in-depth IT tutorial! To begin we will have to create a Virtual machine using the Microsoft Azure portal(portal.azure.com). We will be using a VM(virtual machine) which is a remote computer. We are using a VM in order to protect our physical machine just in case something malfunctions, and also have a clean slate computer to continually replicate the lab on. Create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. In this example I will be using 4 CPUs.
+Welcome to my first in-depth IT tutorial! To begin we will have to create a Virtual machine using the Microsoft Azure portal(portal.azure.com). We will be using a VM(virtual machine) which is a remote computer. We are using a VM in order to protect our physical machine just in case something malfunctions, and also have a clean slate computer to continually replicate the lab on. Create a resource group and title it "osTicket". Afterwards create a VM with 2-4 CPUs. In this example I will be using 4 CPUs.\.
 
 <p>
-<img width="1728" height="1080" alt="Screenshot 2026-01-25 at 5 22 26 AM" src="https://github.com/user-attachments/assets/8a2c348c-4eb5-43b1-a992-46db9e5b332c" />
-<img width="1728" height="1080" alt="Screenshot 2026-01-25 at 5 55 53 AM" src="https://github.com/user-attachments/assets/f7fb6ba0-0727-4c32-9652-52a55f9ad58b" />
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/30c44570-6679-4b4d-9e4b-81e0bb47efc3" />
 <p>
 Log into osTicket and open "Tickets" Panel. Observe ticket(s). Consider client issue, priority level, and SLA.
 </p>
