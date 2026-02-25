@@ -54,31 +54,6 @@ Excellent. Now that you have enabled IIS we need to install Web Platform Install
 <p>
 <img width="495" height="387" alt="image" src="https://github.com/user-attachments/assets/ad52be8f-377c-49d5-af68-f176b0cb5790" />
 </p>
+Once you have installed Web Installer Platform open it. From inside the application you are going to install MySQL 5.5 Afterwards install x86 version of PHP up until 7.3. There are some failed files such as C++ redistributable package as well as PHP 7.3.8 and PHP Manager for IIS those files can be found with the install link.
 <p>
-Depending on how osTicket is configured:
 
-Option A: Change Department
-<br />
-<br />
-Example:
-<br />
-  From: IT Helpdesk / Tier 1
-<br />
-  To: Desktop Support / Tier 2
-
-Option B: Assign to Tier 2 Agent or Team
-<br />
-<br />
-Example:
-<br />
-Assign to:
-<br />
--Tier 2 Queue
-<br />
--Desktop Engineering
-<br />
--Network Team
-<br />
--Systems Team
-  </p>
-<br />
