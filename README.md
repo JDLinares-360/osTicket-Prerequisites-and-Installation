@@ -25,7 +25,7 @@ After configuring a new department we will set up a new team. Teams allow you to
 <br />
 
 <p>
-<img width="1014" height="706" alt="68747470733a2f2f692e696d6775722e636f6d2f483171324664682e706e67" src="https://github.com/user-attachments/assets/7f41de4d-3b03-4928-a4a8-49693fc42765" />
+<img width="1051" height="745" alt="68747470733a2f2f692e696d6775722e636f6d2f63597a574244322e706e67" src="https://github.com/user-attachments/assets/7b9773b5-3197-4021-89a9-90492b6c2849" />
 </p>
 <p>
 Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
