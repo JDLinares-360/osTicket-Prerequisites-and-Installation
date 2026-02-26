@@ -25,10 +25,10 @@ After configuring a new department we will set up a new team. Teams allow you to
 <br />
 
 <p>
-<img width="1051" height="745" alt="68747470733a2f2f692e696d6775722e636f6d2f63597a574244322e706e67 (1)" src="https://github.com/user-attachments/assets/051e4bcd-38ae-4cb5-a07e-01dab3da7a29" />
+<img width="1014" height="706" alt="68747470733a2f2f692e696d6775722e636f6d2f483171324664682e706e67" src="https://github.com/user-attachments/assets/7f41de4d-3b03-4928-a4a8-49693fc42765" />
 </p>
 <p>
-Excellent. Now that you have enabled IIS we need to install Web Platform Installer. I have provided a link here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 That link will provide you with all of the material you need to download to get osTicket up and running. Simply click the link and install the Web Platform Installer
+Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
 </p>
 <br />
 
