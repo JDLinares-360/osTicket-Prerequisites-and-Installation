@@ -72,3 +72,10 @@ Next download osTicket. Then extract and copy the "upload" folder into c:\inetpu
 Open IIS Manager and restart the server. Once inside IIS manager go to Sites->Default->osTicket on the right, click "Browse*.80" from there your default browser should open osTicket webserver.
 </p>
 <br />
+
+<p>
+<img width="1425" height="752" alt="image" src="https://github.com/user-attachments/assets/b8bb4327-bd14-4520-b76d-3055ced398f3" />
+</p>
+<p>
+Go back into IIS manager and enable some extensions. To do this you have to go to Sites->Default->osTicket Then double click on PHP manager. Click on "Disable or enable an extension" Enable "php_intl.dll" & "php_opcache.dll" then refresh the osTicket webserver and obsereve the changes "Intl Extension" should now be enabled.</p>
+<br />
