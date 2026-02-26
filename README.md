@@ -39,49 +39,30 @@ It is now time to create Agents. Agents are the employees of the helpdesk that a
 <p>
 
 <p>
-<img width="890" height="608" alt="image" src="https://github.com/user-attachments/assets/6a38edf5-2ef7-4313-82dc-b5f8098e1742" />
+<img width="981" height="939" alt="68747470733a2f2f692e696d6775722e636f6d2f3857544f5372652e706e67" src="https://github.com/user-attachments/assets/8a4bdf3e-0de6-4435-a157-ef45206d5c9b" />
 </p>
 <p>
-Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket
+After creating some agents we will create users. Users are customers that create tickets when they are having issues. A user is identified with their E-mail address. To create a user follow this path Agent Panel->Users->User Directory->Add new.
 </p>
 <br />
 
 <p>
-<img width="1150" height="660" alt="image" src="https://github.com/user-attachments/assets/609cdeb5-8ebf-490a-9918-8d287791b52f" />
+<img width="1029" height="432" alt="68747470733a2f2f692e696d6775722e636f6d2f784f70724139662e706e67" src="https://github.com/user-attachments/assets/bbbcdf37-d0fe-4e04-8c51-bd3f7f306219" />
+
 </p>
 <p>
-Open IIS Manager and restart the server. Once inside IIS manager go to Sites->Default->osTicket on the right, click "Browse*.80" from there your default browser should open osTicket webserver.
+SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and a one hour grace period.
 </p>
 <br />
 
 <p>
-<img width="1425" height="752" alt="image" src="https://github.com/user-attachments/assets/b8bb4327-bd14-4520-b76d-3055ced398f3" />
+<img width="1000" height="695" alt="68747470733a2f2f692e696d6775722e636f6d2f4c706a43614c642e706e67" src="https://github.com/user-attachments/assets/442157ee-a9ae-437a-904a-9590640facd0" />
 </p>
 <p>
-Go back into IIS manager and enable some extensions. To do this you have to go to Sites->Default->osTicket Then double click on PHP manager. Click on "Disable or enable an extension" Enable "php_intl.dll" & "php_opcache.dll" then refresh the osTicket webserver and obsereve the changes "Intl Extension" should now be enabled.
+Help topics help users categorize their tickets. In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking.
 </p>
 <br />
 
 <p>
-<img width="1424" height="753" alt="image" src="https://github.com/user-attachments/assets/494afc29-ad65-42d4-b3d7-cd308a7a9591" />
+<img width="999" height="665" alt="68747470733a2f2f692e696d6775722e636f6d2f6b4237727473322e706e67" src="https://github.com/user-attachments/assets/a07ea5a6-f395-4b0f-9be2-69974fe3b8ce" />
 </p>
-<p>
-Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php Assign permissions to ost-config.php Disable inheritance->Removeall New Permissions->Everyone->all
-</p>
-<br />
-
-<p>
-<img width="1470" height="697" alt="image" src="https://github.com/user-attachments/assets/e65d0099-294b-47c3-9095-0d00b72b314d" />
-</p>
-<p>
-Afterwards continue setting up osTicket in the browser (click continue) then you will name the Helpdesk to your liking. Select a default email that will receive emails from customers who submit tickets.
-</p>
-<br />
-
-<p>
-<img width="889" height="950" alt="image" src="https://github.com/user-attachments/assets/f59bec5d-7b9c-4df9-8032-dd4f3f00981f" />
-</p>
-<p>
-Continue Setting up osticket in the browser MySQL Database: osTicket MySQL Username: root MySQL Password: Password1 Click “Install Now!” Congratulations, hopefully it is installed with no errors! Clean up Delete: C:\inetpub\wwwroot\osTicket\setup Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)
-</p>
-<br />
