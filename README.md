@@ -88,3 +88,19 @@ Go back into IIS manager and enable some extensions. To do this you have to go t
 Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php Assign permissions to ost-config.php Disable inheritance->Removeall New Permissions->Everyone->all
 </p>
 <br />
+
+<p>
+<img width="1470" height="697" alt="image" src="https://github.com/user-attachments/assets/e65d0099-294b-47c3-9095-0d00b72b314d" />
+</p>
+<p>
+Afterwards continue setting up osTicket in the browser (click continue) then you will name the Helpdesk to your liking. Select a default email that will receive emails from customers who submit tickets.
+</p>
+<br />
+
+<p>
+<img width="889" height="950" alt="image" src="https://github.com/user-attachments/assets/f59bec5d-7b9c-4df9-8032-dd4f3f00981f" />
+</p>
+<p>
+Continue Setting up osticket in the browser MySQL Database: osTicket MySQL Username: root MySQL Password: Password1 Click “Install Now!” Congratulations, hopefully it is installed with no errors! Clean up Delete: C:\inetpub\wwwroot\osTicket\setup Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)
+</p>
+<br />
