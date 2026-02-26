@@ -33,9 +33,9 @@ Now that we have set up a new team we will create a new setting that will allow 
 <br />
 
 <p>
-<img width="495" height="387" alt="image" src="https://github.com/user-attachments/assets/ad52be8f-377c-49d5-af68-f176b0cb5790" />
+<img width="1014" height="706" alt="68747470733a2f2f692e696d6775722e636f6d2f483171324664682e706e67" src="https://github.com/user-attachments/assets/decf5479-373f-4fd1-856f-9633ebcd83f5" />
 </p>
-Once you have installed Web Installer Platform open it. From inside the application you are going to install MySQL 5.5 Afterwards install x86 version of PHP up until 7.3. There are some failed files such as C++ redistributable package as well as PHP 7.3.8 and PHP Manager for IIS those files can be found with the install link.
+It is now time to create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are be assigned in the Agents tab.
 <p>
 
 <p>
