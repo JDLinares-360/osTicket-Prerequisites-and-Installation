@@ -5,8 +5,9 @@
 <h1>osTicket - Post Configuration Setup</h1>
 This tutorial demonstrates the post configuration setup of the osTicket system .
 <br />
-
+<p>
 Okay wonderful! We have successfully configured osTicket from scratch. Now we will do some system administration and work on some post installation setup. first we will configure new roles within the help desk. In order to do so go to Admin panel-> Agents-> Roles. We will create a Supreme Admin. Click on "Add new role" then enter the name of the new role. You can also modify any specific roles permissions. In this case since we are creating a Supreme Admin they will be given all permissions. Keep in mind roles are used to determine an agents permissions so not all agents will have unlimited access. If you followed the steps correctly your screen should like something like this. As you can see we have successfully created the "Supreme Admin" role.
+</p>
 
 <p>
 <img width="1048" height="463" alt="68747470733a2f2f692e696d6775722e636f6d2f584874657164742e706e67" src="https://github.com/user-attachments/assets/5636fe3e-c957-4acc-a23a-e7999813b817" />
