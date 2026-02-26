@@ -66,9 +66,9 @@ Next download osTicket. Then extract and copy the "upload" folder into c:\inetpu
 <br />
 
 <p>
-<img width="890" height="608" alt="image" src="https://github.com/user-attachments/assets/6a38edf5-2ef7-4313-82dc-b5f8098e1742" />
+<img width="1150" height="660" alt="image" src="https://github.com/user-attachments/assets/609cdeb5-8ebf-490a-9918-8d287791b52f" />
 </p>
 <p>
-Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket
+Open IIS Manager and restart the server. Once inside IIS manager go to Sites->Default->osTicket on the right, click "Browse*.80" from there your default browser should open osTicket webserver.
 </p>
 <br />
