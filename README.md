@@ -65,3 +65,10 @@ Next download osTicket. Then extract and copy the "upload" folder into c:\inetpu
 </p>
 <br />
 
+<p>
+<img width="890" height="608" alt="image" src="https://github.com/user-attachments/assets/6a38edf5-2ef7-4313-82dc-b5f8098e1742" />
+</p>
+<p>
+Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket
+</p>
+<br />
