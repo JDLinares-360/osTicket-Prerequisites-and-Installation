@@ -25,7 +25,7 @@ After configuring a new department we will set up a new team. Teams allow you to
 <br />
 
 <p>
-<img width="1122" height="591" alt="image" src="https://github.com/user-attachments/assets/62918545-b20f-4fcc-abef-7ef29859614e" />
+<img width="1051" height="745" alt="68747470733a2f2f692e696d6775722e636f6d2f63597a574244322e706e67" src="https://github.com/user-attachments/assets/064b5bc3-abd9-4fc7-9a96-5b1ab5d4dc73" />
 </p>
 <p>
 Excellent. Now that you have enabled IIS we need to install Web Platform Installer. I have provided a link here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 That link will provide you with all of the material you need to download to get osTicket up and running. Simply click the link and install the Web Platform Installer
